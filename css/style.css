@@ -1,0 +1,17 @@
+/*
+Name: Min Blue HTML Template
+URI: https://github.com/melihkocaturk/min-blue-html-template
+Author: Melih Kocatürk
+Author URI: http://www.melihkocaturk.com/
+Description: Bootstrap 4 HTML Blog Template
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+.jumbotron-heading {
+  padding-top: 15rem !important
+}
+
+.entry-footer {
+  font-size: 0.8em;
+}
